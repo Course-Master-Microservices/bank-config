@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to Bank accounts related production APIs "
   contactDetails:
-    name: "Reine Aishwarya - Product Owner"
+    name: "Luis Alho - Product Owner"
     email: "{cipher}e6d5e45246a34ee510b241e61a284ab45d29376270aad0f135b1357377449db17bd17f41e96d449d2bdcce96b01c637c"
   onCallSupport:
     - (453) 392-4829
